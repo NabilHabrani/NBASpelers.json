@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": "LeBron James",
+        "description": "LeBron Raymone James is een professionele basketbalspeler en wordt vaak beschouwd als een van de grootste spelers aller tijden.",
+        "age": 37,
+        "active": true,
+        "birthdate": "1984-12-30",
+        "image_url": "https://example.com/images/lebron_james.jpg",
+        "position": "Forward",
+        "hobbies": ["Basketball", "Film", "Philanthropy"],
+        "team": {
+            "id": 1,
+            "name": "Los Angeles Lakers",
+            "championships": 17,
+            "city": "Los Angeles"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Stephen Curry",
+        "description": "Stephen Curry is een professionele basketbalspeler die wordt geprezen om zijn schietvaardigheden.",
+        "age": 34,
+        "active": true,
+        "birthdate": "1988-03-14",
+        "image_url": "https://example.com/images/stephen_curry.jpg",
+        "position": "Guard",
+        "hobbies": ["Golf", "Koken"],
+        "team": {
+            "id": 2,
+            "name": "Golden State Warriors",
+            "championships": 6,
+            "city": "San Francisco"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Kevin Durant",
+        "description": "Kevin Wayne Durant is een professionele basketballer en wordt vaak gezien als een van de meest veelzijdige scorers in de NBA.",
+        "age": 34,
+        "active": true,
+        "birthdate": "1988-09-29",
+        "image_url": "https://example.com/images/kevin_durant.jpg",
+        "position": "Forward",
+        "hobbies": ["Schrijven", "Videospellen"],
+        "team": {
+            "id": 3,
+            "name": "Brooklyn Nets",
+            "championships": 2,
+            "city": "Brooklyn"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Giannis Antetokounmpo",
+        "description": "Giannis Antetokounmpo is een Griekse professionele basketballer, bekend om zijn atletisch vermogen en veelzijdigheid.",
+        "age": 27,
+        "active": true,
+        "birthdate": "1994-12-06",
+        "image_url": "https://example.com/images/giannis_antetokounmpo.jpg",
+        "position": "Forward",
+        "hobbies": ["Voetbal", "Fitness"],
+        "team": {
+            "id": 4,
+            "name": "Milwaukee Bucks",
+            "championships": 2,
+            "city": "Milwaukee"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Kawhi Leonard",
+        "description": "Kawhi Leonard is een professionele basketballer, bekend om zijn defensieve vaardigheden en clutch-scoring.",
+        "age": 30,
+        "active": true,
+        "birthdate": "1991-06-29",
+        "image_url": "https://example.com/images/kawhi_leonard.jpg",
+        "position": "Forward",
+        "hobbies": ["Videospellen", "Muziek"],
+        "team": {
+            "id": 5,
+            "name": "Los Angeles Clippers",
+            "championships": 0,
+            "city": "Los Angeles"
+        }
+    },
+    {
+        "id": 6,
+        "name": "James Harden",
+        "description": "James Harden is een professionele basketballer, beroemd om zijn scorend vermogen en unieke speelstijl.",
+        "age": 32,
+        "active": true,
+        "birthdate": "1989-08-26",
+        "image_url": "https://example.com/images/james_harden.jpg",
+        "position": "Guard",
+        "hobbies": ["Muziek", "Koken"],
+        "team": {
+            "id": 6,
+            "name": "Philadelphia 76ers",
+            "championships": 3,
+            "city": "Philadelphia"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Luka Dončić",
+        "description": "Luka Dončić is een Sloveense basketballer die snel bekendheid verwierf in de NBA dankzij zijn veelzijdigheid.",
+        "age": 23,
+        "active": true,
+        "birthdate": "1999-02-28",
+    "image_url": "https://example.com/images/luka_doncic.jpg",
+    "position": "Guard",
+    "hobbies": ["Basketball", "Videospellen", "Reizen"],
+    "team": {
+        "id": 7,
+        "name": "Dallas Mavericks",
+        "championships": 3,
+        "city": "Dallas"
+    }
+},
+    {
+        "id": 8,
+        "name": "Nikola Jokić",
+        "description": "Nikola Jokić is een Servische basketballer die bekend staat om zijn uitstekende passing en veelzijdigheid als center.",
+        "age": 28,
+        "active": true,
+        "birthdate": "1995-02-19",
+        "image_url": "https://example.com/images/nikola_jokic.jpg",
+        "position": "Center",
+        "hobbies": ["Darten", "Films kijken"],
+        "team": {
+            "id": 7,
+            "name": "Denver Nuggets",
+            "championships": 1,
+            "city": "Denver"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Damian Lillard",
+        "description": "Damian Lillard is een professionele basketballer die bekend staat om zijn lange afstandsschoten en clutch-scoring.",
+        "age": 33,
+        "active": true,
+        "birthdate": "1990-07-15",
+        "image_url": "https://example.com/images/damian_lillard.jpg",
+        "position": "Guard",
+        "hobbies": ["Muziek maken", "Reizen"],
+        "team": {
+            "id": 8,
+            "name": "Portland Trail Blazers",
+            "championships": 0,
+            "city": "Portland"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Chris Paul",
+        "description": "Chris Paul is een ervaren point guard, bekend om zijn uitstekende spelverdeling en leiderschap op het veld.",
+        "age": 38,
+        "active": true,
+        "birthdate": "1985-05-06",
+        "image_url": "https://example.com/images/chris_paul.jpg",
+        "position": "Guard",
+        "hobbies": ["Golfen", "Filantropie"],
+        "team": {
+            "id": 9,
+            "name": "Phoenix Suns",
+            "championships": 0,
+            "city": "Phoenix"
+        }
+    }
+]
+
+
+
+
+
