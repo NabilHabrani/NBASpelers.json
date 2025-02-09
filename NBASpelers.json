@@ -142,7 +142,7 @@
         "age": 33,
         "active": true,
         "birthdate": "1990-07-15",
-        "image_url": "https://example.com/images/damian_lillard.jpg",
+        "image_url": "file:///C:/Users/nabil/Downloads/damian%20lillard.png",
         "position": "Guard",
         "hobbies": ["Muziek maken", "Reizen"],
         "team": {
