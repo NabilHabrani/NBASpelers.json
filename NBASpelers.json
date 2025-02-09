@@ -159,7 +159,7 @@
         "age": 38,
         "active": true,
         "birthdate": "1985-05-06",
-        "image_url": "https://example.com/images/chris_paul.jpg",
+        "image_url": "file:///C:/Users/nabil/Downloads/chris%20paul.png",
         "position": "Guard",
         "hobbies": ["Golfen", "Filantropie"],
         "team": {
