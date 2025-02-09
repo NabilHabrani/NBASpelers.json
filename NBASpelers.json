@@ -57,7 +57,7 @@
         "age": 27,
         "active": true,
         "birthdate": "1994-12-06",
-        "image_url": "https://example.com/images/giannis_antetokounmpo.jpg",
+        "image_url": "file:///C:/Users/nabil/Downloads/giannes.png",
         "position": "Forward",
         "hobbies": ["Voetbal", "Fitness"],
         "team": {
