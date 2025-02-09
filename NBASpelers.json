@@ -74,7 +74,7 @@
         "age": 30,
         "active": true,
         "birthdate": "1991-06-29",
-        "image_url": "https://example.com/images/kawhi_leonard.jpg",
+        "image_url": "file:///C:/Users/nabil/Downloads/kawhi.png",
         "position": "Forward",
         "hobbies": ["Videospellen", "Muziek"],
         "team": {
