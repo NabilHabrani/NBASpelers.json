@@ -125,7 +125,7 @@
         "age": 28,
         "active": true,
         "birthdate": "1995-02-19",
-        "image_url": "https://example.com/images/nikola_jokic.jpg",
+        "image_url": "file:///C:/Users/nabil/Downloads/nikola%20jokic.png",
         "position": "Center",
         "hobbies": ["Darten", "Films kijken"],
         "team": {
