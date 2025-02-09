@@ -91,7 +91,7 @@
         "age": 32,
         "active": true,
         "birthdate": "1989-08-26",
-        "image_url": "https://example.com/images/james_harden.jpg",
+        "image_url": "file:///C:/Users/nabil/Downloads/james%20harden.png",
         "position": "Guard",
         "hobbies": ["Muziek", "Koken"],
         "team": {
