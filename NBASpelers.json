@@ -40,7 +40,7 @@
         "age": 34,
         "active": true,
         "birthdate": "1988-09-29",
-        "image_url": "https://example.com/images/kevin_durant.jpg",
+        "image_url": "file:///C:/Users/nabil/Downloads/kevin%20durant.png",
         "position": "Forward",
         "hobbies": ["Schrijven", "Videospellen"],
         "team": {
