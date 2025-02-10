@@ -23,7 +23,7 @@
         "age": 34,
         "active": true,
         "birthdate": "1988-03-14",
-        "image_url": "file:///C:/Users/nabil/Downloads/steph%20curry.png",
+        "image_url": "https://github.com/NabilHabrani/NBASpelers.json/blob/main/steph%20curry.png?raw=true",
         "position": "Guard",
         "hobbies": ["Golf", "Koken"],
         "team": {
