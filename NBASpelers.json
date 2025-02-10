@@ -142,7 +142,7 @@
         "age": 33,
         "active": true,
         "birthdate": "1990-07-15",
-        "image_url": "file:///C:/Users/nabil/Downloads/damian%20lillard.png",
+        "image_url": "https://github.com/NabilHabrani/NBASpelers.json/blob/main/damian%20lillard.png?raw=true",
         "position": "Guard",
         "hobbies": ["Muziek maken", "Reizen"],
         "team": {
