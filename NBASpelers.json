@@ -6,7 +6,7 @@
         "age": 37,
         "active": true,
         "birthdate": "1984-12-30",
-        "image_url": "file:///C:/Users/nabil/Downloads/lebron%20james%20(2).png",
+        "image_url": "https://github.com/NabilHabrani/NBASpelers.json/blob/main/lebron%20james.png?raw=true",
         "position": "Forward",
         "hobbies": ["Basketball", "Film", "Philanthropy"],
         "team": {
