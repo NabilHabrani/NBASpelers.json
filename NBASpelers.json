@@ -91,7 +91,7 @@
         "age": 32,
         "active": true,
         "birthdate": "1989-08-26",
-        "image_url": "file:///C:/Users/nabil/Downloads/james%20harden.png",
+        "image_url": "https://github.com/NabilHabrani/NBASpelers.json/blob/main/james%20harden.png?raw=true",
         "position": "Guard",
         "hobbies": ["Muziek", "Koken"],
         "team": {
