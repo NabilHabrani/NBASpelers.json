@@ -159,7 +159,7 @@
         "age": 38,
         "active": true,
         "birthdate": "1985-05-06",
-        "image_url": "file:///C:/Users/nabil/Downloads/chris%20paul.png",
+        "image_url": "https://github.com/NabilHabrani/NBASpelers.json/blob/main/chris%20paul.png?raw=true",
         "position": "Guard",
         "hobbies": ["Golfen", "Filantropie"],
         "team": {
