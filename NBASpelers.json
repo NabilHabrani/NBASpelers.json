@@ -74,7 +74,7 @@
         "age": 30,
         "active": true,
         "birthdate": "1991-06-29",
-        "image_url": "file:///C:/Users/nabil/Downloads/kawhi.png",
+        "image_url": "https://github.com/NabilHabrani/NBASpelers.json/blob/main/kawhi.png?raw=true",
         "position": "Forward",
         "hobbies": ["Videospellen", "Muziek"],
         "team": {
