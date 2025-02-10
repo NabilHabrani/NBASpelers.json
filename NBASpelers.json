@@ -108,7 +108,7 @@
         "age": 23,
         "active": true,
         "birthdate": "1999-02-28",
-    "image_url": "file:///C:/Users/nabil/Downloads/luka%20doncic.png",
+    "image_url": "https://github.com/NabilHabrani/NBASpelers.json/blob/main/luka%20doncic.png?raw=true",
     "position": "Guard",
     "hobbies": ["Basketball", "Videospellen", "Reizen"],
     "team": {
